@@ -217,7 +217,7 @@ flowchart TD
 
 <div align="center">
 
-![GitHub contribution grid snake animation](https://github.com/hashcodes7/hashcodes7/blob/output/github-contribution-grid-snake.svg)
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/hashcodes7/hashcodes7/main/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
