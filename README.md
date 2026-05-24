@@ -208,23 +208,10 @@ flowchart TD
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=hashcodes7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/><br/>
+![](https://streak-stats.demolab.com/?user=hashcodes7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hashcodes7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashcodes7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&text_color=F8F8F2&ring_color=7F5AF0&line_height=27"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hashcodes7&theme=midnight-purple&hide_border=true&ring=7F5AF0&fire=FF8906&currStreakLabel=2CB67D"/>
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashcodes7&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=F8F8F2"/>
-
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hashcodes7&theme=tokyo-night&hide_border=true&point=7F5AF0&line=2CB67D&area_color=1a1a2e&area=true"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
 
 # 🐍 Contribution Snake Animation
 
