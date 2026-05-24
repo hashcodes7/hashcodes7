@@ -14,6 +14,40 @@
 
 ---
 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/hashcodes7" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16161A"/>
+</a>
+
+<a href="https://instagram.com/hersheyyy.sv" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-FF8906?style=for-the-badge&logo=instagram&logoColor=white&labelColor=16161A"/>
+</a>
+
+<a href="https://youtube.com/@HashCodes7" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-ef4565?style=for-the-badge&logo=youtube&logoColor=white&labelColor=16161A"/>
+</a>
+
+<a href="mailto:harshjobs07@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-2CB67D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16161A"/>
+</a>
+
+<a href="https://twitter.com/hashcodes7" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&labelColor=16161A"/>
+</a>
+
+<a href="https://github.com/hashcodes7" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=16161A"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+---
+
 # <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="28"/> About Me
 
 <table>
@@ -222,40 +256,6 @@ flowchart TD
     </td>
   </tr>
 </table>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1968/1968645.png" width="28"/> Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/hashcodes7" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16161A"/>
-</a>
-
-<a href="https://instagram.com/hersheyyy.sv" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-FF8906?style=for-the-badge&logo=instagram&logoColor=white&labelColor=16161A"/>
-</a>
-
-<a href="https://youtube.com/@HashCodes7" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-ef4565?style=for-the-badge&logo=youtube&logoColor=white&labelColor=16161A"/>
-</a>
-
-<a href="mailto:harshjobs07@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-2CB67D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=16161A"/>
-</a>
-
-<a href="https://twitter.com/hashcodes7" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&labelColor=16161A"/>
-</a>
-
-<a href="https://github.com/hashcodes7" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=16161A"/>
-</a>
 
 </div>
 
