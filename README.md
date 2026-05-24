@@ -72,9 +72,8 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="#">
-        <!-- Replace with your project screenshot/GIF -->
-        <img src="https://via.placeholder.com/600x350/16161A/7F5AF0?text=RAG+Closed+Context+QA" alt="Project Preview" width="100%" style="border-radius: 10px;"/>
+      <a href="https://github.com/hashcodes7/rag-closed-context-qa">
+        <img src="https://opengraph.githubassets.com/1/hashcodes7/rag-closed-context-qa" alt="Project Preview" width="100%" style="border-radius: 10px;"/>
       </a>
     </td>
     <td width="50%" valign="top" style="border: none;">
@@ -87,8 +86,7 @@
           <b>Tech Stack:</b> Python, LangChain, Vector DBs, LLMs<br>
         </p>
         <p align="left">
-          <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-2CB67D?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source%20Code-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+          <a href="https://github.com/hashcodes7/rag-closed-context-qa"><img src="https://img.shields.io/badge/Source%20Code-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
         </p>
       </blockquote>
       <blockquote>
@@ -231,43 +229,6 @@ flowchart LR
 </div>
 <br>
 
-<!-- WAKATIME STATS -->
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/512/2953/2953363.png" width="35" align="center"/> Weekly Development Breakdown</h2>
-  <br>
-  <!-- Ensure you set up WAKATIME_API_KEY and GH_TOKEN in your repository secrets for WakaTime Action -->
-  <p align="center">
-    <!-- START_SECTION:waka -->
-    <i>WakaTime metrics will be injected here by GitHub Actions!</i>
-    <!-- END_SECTION:waka -->
-  </p>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-<br>
-
-<!-- RECENT ARTICLES -->
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/512/3096/3096113.png" width="35" align="center"/> Recent Technical Writings</h2>
-  <br>
-  <blockquote>
-    <p align="left">
-      <!-- The GitHub Action will inject your latest blog posts here -->
-      <!-- BLOG-POST-LIST:START -->
-      <i>Articles will appear here once the GitHub Action runs!</i>
-      <!-- BLOG-POST-LIST:END -->
-    </p>
-  </blockquote>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-<br>
 
 <!-- DYNAMIC QUOTE -->
 <div align="center">
