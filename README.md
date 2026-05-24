@@ -207,8 +207,7 @@ flowchart TD
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashcodes7&theme=tokyonight"/>
-
+![](https://github-readme-stats.shion.dev/api?username=hashcodes7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashcodes7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&text_color=F8F8F2&ring_color=7F5AF0&line_height=27"/>
